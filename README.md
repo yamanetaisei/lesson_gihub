@@ -7,3 +7,8 @@ github練習用レポジトリ
 - あいうえお
 - かきくけこ
 - さしすせそ
+
+## メンバー
+- [taisei](https://github.com/yamanetaisei)
+- [yuta](https://github.com/KanaiYuta)
+- [yukino](https://github.com/yukino119)
